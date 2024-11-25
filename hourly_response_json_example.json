@@ -1,0 +1,806 @@
+{
+	"context": {
+		"MIN_RATE": 5,
+		"HOURS_PER_WEEK": 40,
+		"MAX_WEEKLY_RATE": 9999,
+		"DEFAULT_MILESTONES_MAX": 1000000,
+		"engagementDurationsList": [{
+			"uid": "474250516458926080",
+			"rid": 1,
+			"label": "More than 6 months",
+			"weeks": 52,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926081",
+			"rid": 2,
+			"label": "3 to 6 months",
+			"weeks": 18,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926082",
+			"rid": 3,
+			"label": "1 to 3 months",
+			"weeks": 9,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926083",
+			"rid": 4,
+			"label": "Less than 1 month",
+			"weeks": 3,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}],
+		"qt": {
+			"TONB3345_ShowHighlightedSectionByPerson": "Treatment"
+		},
+		"ff": {
+			"TONB3345ShowHighlightedSection": true
+		},
+		"appliedAsAgency": false,
+		"isBusinessManager": false,
+		"isAgencyAdmin": false,
+		"isAgencyOwner": false,
+		"isUpworkPlusClient": false,
+		"isEnterpriseClient": false,
+		"canChangeTerms": true,
+		"canViewTerms": true,
+		"canWithdraw": true
+	},
+	"application": {
+		"name": "TVJApplication",
+		"applicationRid": null,
+		"relatedJob": null,
+		"originalJob": null,
+		"messageFromBuyer": null,
+		"isInterview": null,
+		"complianceData": null,
+		"isLeadProposal": false,
+		"applicationUID": "1774534446397911041",
+		"vendorUID": "1352684380223754240",
+		"vendorOrgUID": "1352684380232142849",
+		"openingUID": "1774478631667142656",
+		"terms": {
+			"chargeRate": {
+				"amount": "60",
+				"currency": "USD"
+			},
+			"duration": 0,
+			"upfrontPaymentPercent": 0,
+			"connectsBid": 0,
+			"sri": {
+				"percent": 0,
+				"frequency": 0
+			}
+		},
+		"coverLetter": "I can do the job for you",
+		"questionsAnswers": [],
+		"attachment": null,
+		"applyingAs": 0,
+		"status": 2,
+		"withdrawReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"auditDetails": {
+			"createdByUserUID": "1352684380223754240",
+			"modifiedByUserUID": "1352684380223754240",
+			"createdTs": "2024-03-31T20:29:15.933Z",
+			"modifiedTs": "2024-03-31T20:29:15.933Z"
+		},
+		"hidden": false,
+		"dashroomUID": null,
+		"attachments": [],
+		"replaceDetails": {
+			"previousUID": null,
+			"newUID": null
+		},
+		"inviteToInterviewUID": null,
+		"readyToStartDate": null,
+		"vendorSubOrgUID": "1352684380232142849",
+		"onHold": false,
+		"milestones": null,
+		"archiveReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"declineReadon": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"openingCiphertext": null,
+		"invalidateReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"occupationUID": null,
+		"occupationTitle": null,
+		"portfolios": [],
+		"statusReason": null,
+		"otherAnnotations": [13],
+		"jointProposalUID": null,
+		"memberProposals": null,
+		"viewedByClientDate": null,
+		"gitHubRepoLink": null
+	},
+	"applicant": {
+		"profileRate": null,
+		"ciphertext": "~0110c34ec99534df3a",
+		"title": "Backend Server Developer | Cloud Integration Expert",
+		"uid": "1352684380232142850",
+		"person": {
+			"uid": "1352684380223754240",
+			"legacyId": "497f29bd",
+			"rid": "37789089",
+			"personName": {
+				"lastName": "Osseo-Asare",
+				"firstName": "David"
+			},
+			"photoUrl": "https:\/\/www.upwork.com\/profile-portraits\/c1MXpHy76x5tT-XkUikmChbl8X_H9ImH_LSyJZMq4p0XCqCCJcm9D6Qt6IBOrpJOry",
+			"creationDate": "2021-01-22T18:27:42.487Z",
+			"isProvider": null,
+			"updatedOn": "2024-03-29T23:59:08.527Z",
+			"active": true,
+			"dateOfBirth": null
+		},
+		"organization": {
+			"name": "David Osseo-Asare",
+			"uid": "1352684380232142849",
+			"parentUid": null,
+			"legacyId": null,
+			"rid": null,
+			"legacyParentRid": null,
+			"legacyType": 2,
+			"photoUrl": null,
+			"type": 2,
+			"contactRid": null,
+			"active": true,
+			"hidden": false,
+			"description": null,
+			"topLevelOrgUid": "1352684380232142849",
+			"timezoneName": null
+		},
+		"activationStatus": 1,
+		"owner": true,
+		"invitationRid": null,
+		"contractRid": null,
+		"personUid": "1352684380223754240",
+		"orgUid": "1352684380232142849",
+		"eac": null,
+		"affiliateContractor": null,
+		"staffType": 3,
+		"colleague": true,
+		"isDefault": false
+	},
+	"jobDetails": {
+		"opening": {
+			"job": {
+				"info": {
+					"type": 2,
+					"title": "Custom Zoho CRM \/ Backend",
+					"ciphertext": "~01bf5c6d607a5245fd",
+					"access": 4,
+					"recno": 1012363333,
+					"createdOn": "2024-03-31T16:47:28.889Z",
+					"isPtcPrivate": false,
+					"uid": "1774478631667142656",
+					"premium": false,
+					"hideBudget": false,
+					"notSureFreelancersToHire": false,
+					"notSureProjectDuration": false,
+					"notSureExperienceLevel": false,
+					"notSureLocationPreference": false,
+					"weeklyRetainerBudget": null
+				},
+				"description": "I\u0027m looking for a custom Zoho backend \/ CRM system for a small sales team. \n\nThe CRM system needs to have tasks, targets, KPI\u0027s, contacts, meetings, deals, custom dashboard etc. \n\nSize of team is 3-6 people. \n\nI would like to discuss the workflow with you on a call to create the best experience.",
+				"status": 1,
+				"postedOn": "2024-03-31T16:47:28.889Z",
+				"startDate": null,
+				"deliveryDate": null,
+				"workload": "Less than 30 hrs\/week",
+				"companyRecno": 1012446001,
+				"duration": "1 to 3 months",
+				"budget": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"visibility": 4,
+				"clientActivity": {
+					"lastBuyerActivity": "2024-03-31T17:37:02.723Z",
+					"numberOfPositionsToHire": 1,
+					"totalApplicants": 9,
+					"totalInvitedToInterview": 3,
+					"totalHired": 0,
+					"unansweredInvites": 4,
+					"invitationsSent": 7
+				},
+				"contractorTier": 2,
+				"segmentationData": [{
+					"name": "Employment",
+					"value": "EMPLOYMENT_POSITION",
+					"label": "Ongoing project",
+					"type": "EMPLOYMENT",
+					"sortOrder": 1,
+					"typeUid": "535792587707281410",
+					"customValue": null,
+					"skill": null
+				}],
+				"categoryGroup": {
+					"name": "Web, Mobile \u0026 Software Dev",
+					"urlSlug": "web-mobile-software-dev"
+				},
+				"category": {
+					"name": "Web Development",
+					"urlSlug": "web-development"
+				},
+				"maxBudget": null,
+				"attachments": null,
+				"openingUid": "1774478631667142656",
+				"sourcingTime": null,
+				"publishTime": "2024-03-31T16:47:29.353Z",
+				"durationIdV2": 2,
+				"durationLabel": "1 to 3 months",
+				"durationIdV3": 2,
+				"extendedBudgetInfo": {
+					"hourlyBudgetType": 1,
+					"hourlyBudgetMin": 8,
+					"hourlyBudgetMax": 35
+				},
+				"weeklyRetainerBudget": null,
+				"engagementDuration": {
+					"uid": "474250516458926082",
+					"rid": 3,
+					"label": "1 to 3 months",
+					"weeks": 9,
+					"ctime": "2014-06-04T17:59:10.123Z",
+					"mtime": "2014-06-04T17:59:10.123Z",
+					"replacedByUid": null
+				},
+				"sandsData": {
+					"occupation": {
+						"uid": "1110580748673863680",
+						"freeText": null,
+						"ontologyId": "upworkOccupation:backenddevelopment",
+						"prefLabel": "Back-End Development"
+					},
+					"ontologySkills": null,
+					"additionalSkills": [{
+						"attributeUid": "1031626798172454912",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:zohocrm",
+						"prefLabel": "Zoho CRM"
+					}, {
+						"attributeUid": "1031626798164066304",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:zohocreator",
+						"prefLabel": "Zoho Creator"
+					}, {
+						"attributeUid": "1559203828893872128",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "kg:54-00460",
+						"prefLabel": "Zoho Desk"
+					}, {
+						"attributeUid": "1253342902265458688",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:zohobookstool",
+						"prefLabel": "Zoho Books"
+					}, {
+						"attributeUid": "1253342902227709952",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:zohoanalyticsplatform",
+						"prefLabel": "Zoho Analytics"
+					}],
+					"occupations": [{
+						"uid": "1110580748673863680",
+						"freeText": null,
+						"ontologyId": "upworkOccupation:backenddevelopment",
+						"prefLabel": "Back-End Development"
+					}]
+				},
+				"annotations": {
+					"tags": ["contractToHireSet", "searchable", "C2HJobsOptInEducation"],
+					"customFields": {
+						"siteSource": "desktop_rjp",
+						"publishTime": "2024-03-31T16:47:29.353Z",
+						"totalTimeJobPostFlowAIv2": "150",
+						"sourcingUpdateCount": "0",
+						"sourcingUpdateForbidden": "false",
+						"totalTimeSpentOnReviewPageAIv2": "7",
+						"type": "RJP",
+						"browser": "Chrome",
+						"device": "Macintosh",
+						"startTimeJobPostFlowAIv2": "1711903497119"
+					}
+				}
+			},
+			"qualifications": {
+				"type": 0,
+				"location": null,
+				"minOdeskHours": 0,
+				"groupRecno": null,
+				"shouldHavePortfolio": false,
+				"tests": null,
+				"minHoursWeek": 30,
+				"group": null,
+				"prefEnglishSkill": 0,
+				"minJobSuccessScore": 0,
+				"risingTalent": false,
+				"locationCheckRequired": false,
+				"countries": null,
+				"regions": null,
+				"states": null,
+				"timezones": null,
+				"localMarket": false,
+				"onSiteType": null,
+				"locations": null,
+				"localDescription": null,
+				"localFlexibilityDescription": null,
+				"earnings": null,
+				"languages": null
+			},
+			"questions": [],
+			"isJobClosedByCss": null
+		},
+		"buyer": {
+			"info": {
+				"company": {
+					"name": null,
+					"id": "mtc2ntu2mtu4njkwntc4odqxnw",
+					"description": null,
+					"summary": null,
+					"url": null,
+					"isCompanyVisibleInProfile": false,
+					"contractDate": "2024-03-07T00:00:00.000Z",
+					"isEDCReplicated": false,
+					"companyRid": null,
+					"companyUid": "1765561586905788417",
+					"profile": {
+						"size": "2",
+						"industry": "",
+						"visible": true,
+						"l3Occupations": []
+					}
+				},
+				"location": {
+					"country": "United Arab Emirates",
+					"city": null,
+					"state": null,
+					"countryTimezone": "United Arab Emirates (Etc\/UTC)",
+					"worldRegion": null,
+					"offsetFromUtcMillis": 0
+				},
+				"jobs": {
+					"postedCount": 3,
+					"filledCount": 2,
+					"openCount": 0,
+					"openJobs": []
+				},
+				"stats": {
+					"feedbackCount": 0,
+					"hoursCount": 0,
+					"totalCharges": {
+						"currencyCode": "USD",
+						"amount": 300
+					},
+					"totalAssignments": 2,
+					"activeAssignmentsCount": 2,
+					"score": 0,
+					"totalJobsWithHires": 2
+				},
+				"logo": null,
+				"avgHourlyJobsRate": null
+			},
+			"workHistory": [],
+			"cssTier": 0,
+			"isPaymentMethodVerified": true,
+			"isEnterprise": null
+		},
+		"similarJobs": [{
+			"ciphertext": "~011f334d81298646d2",
+			"title": "Create a Zoho CRM",
+			"snippet": "We are looking for a skilled freelancer to create a comprehensive Zoho CRM system with multiple modules, fields, and a reporting system including sales stages. The CRM will be used to manage sales leads, customer interactions, and sales performance. The ideal candidate should have a strong understanding of Zoho CRM and experience in creating custom fields, modules, and reports. The freelancer will be responsible for designing and implementing the CRM system, integrating it with existing systems, and providing ongoing support. The ability to work independently and meet deadlines is essential. Strong communication and problem-solving skills are required to ensure the successful implementation of the CRM system.",
+			"uid": "1767424407052996608"
+		}, {
+			"ciphertext": "~01a83e39b8b2717cc9",
+			"title": "Integrate Zoho Inventory with Zoho CRM",
+			"snippet": "Customer with active order management in Zoho Inventory is looking to expand into Zoho CRM. \n\nWe need our contact records integrated with Zoho CRM. \n\nLooking for a contractor who has done this before and understands any pitfalls of this integration. ",
+			"uid": "1762930749267779584"
+		}, {
+			"ciphertext": "~013f0608b86d175ded",
+			"title": "Ai automation Website Development and Integration with Zoho CRM for Healthcare Staffing Company",
+			"snippet": "Project Description:\n\nWe are a growing healthcare staffing company in need of a website that effectively represents our brand and seamlessly integrates with Zoho CRM. We are seeking an experienced full-stack developer who also possesses a deep understanding of CRM integration, specifically with Zoho CRM, and can automate our workflow.\n\nKey Deliverables:\n\nWebsite Development\n\nDesign and develop a responsive, user-friendly website with the potential to expand in the future.\nEnsure the website is SEO-friendly and optimized for speed.\nIntegrate any required lead capture forms with Zoho CRM.\nSecure, backup, and provide necessary documentation for website management.\n\nZoho CRM Integration\n\nAutomate our workflow from lead capture on the website to input into the Zoho CRM system.\nSetup and configure any necessary fields or modules in Zoho to cater to our business requirements.\nEnsure data integrity and security in Zoho CRM.\nProvide a clear documentation and training on using the integrated system.\n\nTesting and Deployment\n\nFully test the website for any bugs or issues.\nFully test the integration to ensure that data flows correctly between the website and Zoho CRM.\nDeploy the website on our hosting platform.\n\nRequired Skills:\n\nProficient in modern web technologies (HTML, CSS, JavaScript, etc.)\nFamiliarity with website design best practices and SEO optimization.\nExtensive experience with Zoho CRM integration and automation.\nProblem-solving skills and the ability to debug any potential issues.\nExcellent communication skills and the ability to provide training\/documentation.\nFamiliarity with LAMP, MEAN, MERN, and .NET development stacks.\nExperience in API integration and development.\nDatabase development and administration expertise.\n\nDesired (but not required):\n\nExperience in the healthcare staffing industry.\nPrevious work with similar integrations.\nMobile app development experience, especially with React Native, iOS, Android, and Flutter.\nAdvanced expertise in any of the above-mentioned development stacks.",
+			"uid": "1767569092847644672"
+		}, {
+			"ciphertext": "~0124d2d129ae34e40e",
+			"title": "Zoho CRM developer",
+			"snippet": "We are looking for a Zoho CRM developer that can help us with making a Button Widget to create records in the calls module.",
+			"uid": "1772340548912742400"
+		}, {
+			"ciphertext": "~019bbdc47eafc66745",
+			"title": "Development of Widget - SMS for Zoho CRM",
+			"snippet": "Scope of work:\nWe at \u0022Insurance Brands\u0022 are looking to develop a custom application to be placed on Zoho Marketplace that will help in using integrated Twilio telephony as SMS service. The reference application for this work is similar to Smooth Messenger. \n\nTimeline:\nWe are looking to develop this application in less that a month as it should support different Twilio numbers per user to be used for sending and receiving SMSs within the Zoho CRM across all module (Leads, Deals and Contacts).\n\nRequired experience:\nZoho Partners with high experience in Zoho creator or other business application development is preferred.",
+			"uid": "1767231399330852864"
+		}],
+		"currentUserInfo": {
+			"owner": false,
+			"freelancerInfo": {
+				"qualificationsMatches": {
+					"totalQualifications": 4,
+					"totalMatches": 4,
+					"matches": [{
+						"qualification": 0,
+						"qualified": true,
+						"clientPreferred": "all",
+						"freelancerValue": "IC",
+						"freelancerValueLabel": "Not Specified",
+						"clientPreferredLabel": "Any"
+					}, {
+						"qualification": 4,
+						"qualified": true,
+						"clientPreferred": "0",
+						"freelancerValue": "4",
+						"freelancerValueLabel": "Native Or Bilingual",
+						"clientPreferredLabel": "Any"
+					}, {
+						"qualification": 8,
+						"qualified": true,
+						"clientPreferred": "ANY",
+						"freelancerValue": "11790.66",
+						"freelancerValueLabel": "11790.66",
+						"clientPreferredLabel": "Any"
+					}, {
+						"qualification": 10,
+						"qualified": true,
+						"clientPreferred": "Any",
+						"freelancerValue": "en",
+						"freelancerValueLabel": "English",
+						"clientPreferredLabel": null
+					}]
+				},
+				"applied": true,
+				"hired": null,
+				"contract": null,
+				"profileState": 10,
+				"hourlyRate": {
+					"currencyCode": "USD",
+					"amount": 60
+				},
+				"devProfileCiphertext": "~0110c34ec99534df3a",
+				"application": {
+					"vjApplicationUid": "1774534446397911041",
+					"vendorOrgUid": "1352684380232142849"
+				},
+				"pendingInvite": null
+			}
+		},
+		"diagnosticInfo": {
+			"failedServiceCalls": null
+		}
+	},
+	"opening": {
+		"occupation": {
+			"uid": "1110580748673863680",
+			"ontologyId": "upworkOccupation:backenddevelopment",
+			"type": [1],
+			"prefLabel": "Back-End Development",
+			"altLabel": null,
+			"narrower": null,
+			"broader": ["upworkOccupation:webdevelopmentsubcategory"],
+			"entityStatus": 3,
+			"narrowerUids": null,
+			"broaderUids": ["531770282584862733"],
+			"replacedBy": null,
+			"replacedByUid": null,
+			"scopeNote": "Back-end development focuses on the server side of an application, which includes support for retrieving data from the database.",
+			"splitInto": null,
+			"splitIntoUids": null,
+			"mergedInto": null,
+			"mergedIntoUid": null,
+			"externalLink": ["https:\/\/en.wikipedia.org\/wiki\/Software_development", "https:\/\/en.wikipedia.org\/wiki\/Front_and_back_ends"],
+			"exactMatch": null,
+			"exactMatchUids": null,
+			"closeMatch": null,
+			"closeMatchUids": null,
+			"relatedMatch": ["upwork:java", "upwork:reactjs", "upwork:softwaredesign", "upwork:scala", "upwork:xquery", "upwork:apachespark", "upwork:cplusplus", "upwork:aspnetmvc", "upwork:dotnetframework", "upwork:softwarelicensing", "upwork:rest", "upwork:perl", "upwork:delphi", "upwork:softwaredocumentation", "upwork:couchdb", "upwork:databaseprogramming", "upwork:groovy", "upwork:kotlin", "upwork:softwaredevelopment", "upwork:agilesoftwaredevelopment", "upwork:microsoftvisualbasic", "upwork:mongodb", "upwork:csharp", "upwork:javascript", "upwork:softwaredebugging", "upwork:cassandra", "upwork:php", "upwork:mysql", "upwork:vbnet", "upwork:aspnet", "upwork:mysqlprogramming", "upwork:postgresql", "upwork:clojure", "upwork:nodejs", "upwork:erlang", "upwork:python", "upwork:infrastructure", "upwork:ruby", "upwork:neo4j", "upwork:webservices", "upwork:golang", "upwork:sqlite", "upwork:laravelframework", "upwork:sql", "upwork:enterprisesoftware"],
+			"relatedMatchUids": ["996364628025274382", "1031626773660942336", "1110580698442878976", "996364628025274388", "1031626797383925760", "996364628000108548", "996364628025274381", "1031626716547104768", "1031626732825198592", "1031626781462347776", "1031626774814375936", "1031626768397090816", "1031626731030036480", "1031626781453959168", "1031626728098217984", "1031626729897574400", "1031626743130603520", "996364628025274384", "1225465958237442048", "1031626711035789312", "1031626759408697344", "996364627995914245", "996364628025274380", "996364628025274383", "1031626781403627520", "1031626723065053184", "996364628025274385", "996364627995914247", "1031626792665333760", "1031626716513550336", "1031626761661038592", "996364628000108546", "1031626724948295680", "1031626762999021568", "1031626736029646848", "996364628025274386", "1031626748092465152", "1031626775913283584", "996364627995914248", "1031626795299356672", "1031626741679374336", "996364628000108549", "1031626753368899584", "1031626782364123136", "1031626735610216448"],
+			"hasDeliverable": null,
+			"p1keyword": null,
+			"p2keyword": null,
+			"p3keyword": null,
+			"p4keyword": null,
+			"p5keyword": null,
+			"relatedSkill": null,
+			"requires": ["kg:30-10221", "upwork:webserversattributegroup", "upwork:backenddevelopmentdeliverablegroup", "upwork:backendprogramminglanguages", "upwork:backenddevelopmentattributegroup"],
+			"taxonomyLevel": [3],
+			"seeAlso": null,
+			"hasDeliverableUids": null,
+			"requiresUids": ["1737190624495054848", "1204836482861350912", "1110580497267281920", "1110580497527328768", "1110580497007235072"],
+			"published": true,
+			"primaryBroader": "upworkOccupation:webdevelopmentsubcategory",
+			"primaryBroaderUid": "531770282584862733",
+			"supply": 0,
+			"demand": 0,
+			"createdTs": "2019-03-26T16:34:18.734Z",
+			"modifiedTs": "2023-12-19T19:18:14.862Z"
+		},
+		"currentUserInfo": null,
+		"qtAllocations": null,
+		"sponsored": null,
+		"clientSuspended": null,
+		"flSuspended": null,
+		"buyer": {
+			"company": null,
+			"user": null,
+			"rid": "1012446001"
+		},
+		"isPremium": false,
+		"isTopRated": false,
+		"isHipo": false,
+		"job": null,
+		"opening": {
+			"uid": "1774478631667142656",
+			"title": "Custom Zoho CRM \/ Backend",
+			"description": "I\u0027m looking for a custom Zoho backend \/ CRM system for a small sales team. \n\nThe CRM system needs to have tasks, targets, KPI\u0027s, contacts, meetings, deals, custom dashboard etc. \n\nSize of team is 3-6 people. \n\nI would like to discuss the workflow with you on a call to create the best experience.",
+			"version": 0,
+			"engagementType": 1,
+			"duration": {
+				"uid": "474250516458926082",
+				"rid": 3,
+				"label": "1 to 3 months",
+				"weeks": 9,
+				"ctime": "2014-06-04T17:59:10.123Z",
+				"mtime": "2014-06-04T17:59:10.123Z",
+				"replacedByUid": null
+			},
+			"status": 0,
+			"type": 0,
+			"amount": null,
+			"coverLetterRequired": true,
+			"organizationUid": "1765561586905788417",
+			"companyUid": "1765561586905788417",
+			"access": 0,
+			"contractorTier": 1,
+			"freelancersToHire": 1,
+			"ctime": "2024-03-31T16:47:28.889Z",
+			"mtime": "2024-03-31T16:47:28.889Z",
+			"hidden": false,
+			"categoryUid": "531770282584862733",
+			"groupUid": "531770282580668418",
+			"createdByUid": "1765561586905788416",
+			"ciphertext": "01xznq2lGtXFIVp6jfTlLvNprJSwiJxRxP-tlV5BKzci8=",
+			"endDate": null,
+			"startDate": null,
+			"ghostPost": false,
+			"siteSource": "desktop_rjp",
+			"maxAmount": null,
+			"staffAugJob": false,
+			"staffAugDuplicate": false,
+			"keepOpenOnHire": false,
+			"draftOpeningUid": "1774478055836299264",
+			"freelancerMilestonesAllowed": false,
+			"createdByFirstName": null,
+			"createdByLastName": null,
+			"companyName": null,
+			"publishTime": "2024-03-31T16:47:29.353Z",
+			"sourcingTime": null,
+			"sourcingUpdateForbidden": false,
+			"sourcingUpdateCount": 0,
+			"premium": false,
+			"legacyCiphertext": "~01bf5c6d607a5245fd",
+			"hideBudget": false,
+			"notSureFreelancersToHire": false,
+			"notSureProjectDuration": false,
+			"notSureExperienceLevel": false,
+			"notSureLocationPreference": false,
+			"reasonRid": null,
+			"legacyRid": 1012363333,
+			"hourlyBudgetType": 1,
+			"hourlyBudgetMin": 8,
+			"hourlyBudgetMax": 35,
+			"weeklyRetainerBudget": null,
+			"deletedReason": null,
+			"autoReviewStatus": 0,
+			"autoReviewTs": "2024-03-31T16:47:29.351Z",
+			"filledDate": null,
+			"changedByUid": "1765561586905788416",
+			"manualReviewStatus": null,
+			"lastOboAgentUserUID": null,
+			"lastOboAgentActionTs": null,
+			"closeTime": null
+		},
+		"qualifications": {
+			"openingUid": "1774478631667142656",
+			"groupRid": null,
+			"englishSkill": 0,
+			"oDeskHours": null,
+			"testRid": null,
+			"locationRegionRid": null,
+			"freelancerType": 0,
+			"ctime": "2024-03-31T16:47:28.807Z",
+			"mtime": "2024-03-31T16:47:28.807Z",
+			"jobSuccessScore": null,
+			"englishProficiency": 0,
+			"risingTalent": null,
+			"countries": null,
+			"locationCheckRequired": null,
+			"regions": null,
+			"states": null,
+			"timezones": null,
+			"earnings": 0,
+			"localMarket": false,
+			"onSiteType": null,
+			"locations": null,
+			"localDescription": null,
+			"localFlexibilityDescription": null,
+			"languages": null
+		},
+		"questions": {
+			"questions": []
+		},
+		"segmentationData": {
+			"segmentationData": [{
+				"segmentationValueUid": "535795054385852416",
+				"customValue": null,
+				"ctime": "2024-03-31T16:47:28.806Z",
+				"mtime": "2024-03-31T16:47:28.806Z",
+				"segmentationValue": {
+					"uid": "535795054385852416",
+					"rid": 1868,
+					"type": {
+						"name": "Employment",
+						"uid": "535792587707281410",
+						"ctime": "2014-06-04T18:24:59.000Z",
+						"mtime": "2014-06-04T18:24:59.000Z",
+						"rname": "EMPLOYMENT"
+					},
+					"label": "Ongoing project",
+					"rname": "EMPLOYMENT_POSITION",
+					"skillUid": null,
+					"sortOrder": 1,
+					"ctime": "2014-06-04T18:24:59.000Z",
+					"mtime": "2014-06-04T18:24:59.000Z",
+					"skill": null
+				}
+			}]
+		},
+		"qualificationsLoaded": true,
+		"questionsLoaded": true,
+		"segmentationDataLoaded": true,
+		"openingExtra": {
+			"uid": "1774478631667142656",
+			"organizationUid": "1765561586905788417",
+			"companyUid": "1765561586905788417",
+			"directHire": false,
+			"invitePost": false,
+			"clientTlv": null
+		},
+		"openingExtraLoaded": true,
+		"attachments": {
+			"attachments": []
+		},
+		"attachmentsLoaded": true,
+		"createdBy": null,
+		"organization": {
+			"name": null,
+			"uid": "1765561586905788417",
+			"parentUid": null,
+			"legacyId": "mtc2ntu2mtu4njkwntc4odqxnw",
+			"rid": "1012446001",
+			"legacyParentRid": null,
+			"legacyType": 1,
+			"photoUrl": null,
+			"type": 1,
+			"contactRid": null,
+			"active": true,
+			"hidden": false,
+			"description": null,
+			"topLevelOrgUid": "1765561586905788417",
+			"timezoneName": "Etc\/UTC"
+		},
+		"createdByLoaded": true,
+		"organizationLoaded": true,
+		"ptcInfo": null,
+		"ptcInfoLoaded": true,
+		"category": {
+			"name": "Web Development",
+			"uid": "531770282584862733",
+			"slug": "sc-web-development"
+		},
+		"group": {
+			"name": "Web, Mobile \u0026 Software Dev",
+			"uid": "531770282580668418",
+			"categories": null,
+			"slug": null
+		},
+		"categoryLoaded": true,
+		"groupLoaded": true,
+		"sandsJobPost": {
+			"jobPostUid": "1774478631667142656",
+			"occupationUid": "1110580748673863680",
+			"skills": [],
+			"status": 2,
+			"freetextOccupation": null,
+			"tags": null,
+			"additionalSkills": [{
+				"skillUid": "1031626798172454912",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": "1031626798164066304",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": "1559203828893872128",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": "1253342902265458688",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": "1253342902227709952",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}]
+		},
+		"sandsJobPostLoaded": true,
+		"annotations": null,
+		"annotationsLoaded": false
+	},
+	"offer": [],
+	"jobApplicationsCount": {
+		"accepted": {
+			"count": 7
+		},
+		"activated": null,
+		"declined": null,
+		"withdrawn": {
+			"count": 1
+		},
+		"offered": null,
+		"hired": {
+			"count": 5
+		},
+		"archived": {
+			"count": 106
+		},
+		"created": null,
+		"rejected": null,
+		"replaced": null,
+		"pending": null,
+		"invalid": null
+	},
+	"applicantsProfileRate": 60,
+	"applicantsCiphertext": "~0110c34ec99534df3a",
+	"complianceData": null,
+	"messageFromBuyer": null,
+	"agency": null,
+	"legacy": {
+		"isInterview": false,
+		"currentUserRate": 60,
+		"applicationRid": null
+	}
+}

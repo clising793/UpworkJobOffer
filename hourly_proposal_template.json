@@ -1,0 +1,27 @@
+{
+	"version": 3,
+	"jobReference": "${application_id}",
+	"agency": null,
+	"chargedAmount": "${amount}",
+	"coverLetter": "${cover_letter}",
+	"earnedAmount": null,
+	"estimatedDuration": null,
+	"occupationUID": null,
+	"portfolioItemUids": [],
+	"attachments": [],
+	"questions": [],
+	"milestones": [],
+	"readyToStartDate": null,
+	"selectedContractor": {
+		"uid": "1352684380223754240",
+		"oDeskUserID": "497f29bd"
+	},
+	"boostBidAmount": null,
+	"rateGuidance": null,
+	"agencyOrgUid": null,
+	"sri": {
+		"percent": 0,
+		"frequency": 0
+	},
+	"gitHubRepoLink": null
+}

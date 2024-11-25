@@ -1,0 +1,1342 @@
+{
+	"context": {
+		"MIN_RATE": 5,
+		"HOURS_PER_WEEK": 40,
+		"MAX_WEEKLY_RATE": 9999,
+		"DEFAULT_MILESTONES_MAX": 1000000,
+		"engagementDurationsList": [{
+			"uid": "474250516458926080",
+			"rid": 1,
+			"label": "More than 6 months",
+			"weeks": 52,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926081",
+			"rid": 2,
+			"label": "3 to 6 months",
+			"weeks": 18,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926082",
+			"rid": 3,
+			"label": "1 to 3 months",
+			"weeks": 9,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}, {
+			"uid": "474250516458926083",
+			"rid": 4,
+			"label": "Less than 1 month",
+			"weeks": 3,
+			"ctime": "2014-06-04T17:59:10.123Z",
+			"mtime": "2014-06-04T17:59:10.123Z",
+			"replacedByUid": null
+		}],
+		"qt": {
+			"TONB3345_ShowHighlightedSectionByPerson": "Treatment"
+		},
+		"ff": {
+			"TONB3345ShowHighlightedSection": true
+		},
+		"appliedAsAgency": false,
+		"isBusinessManager": false,
+		"isAgencyAdmin": false,
+		"isAgencyOwner": false,
+		"isUpworkPlusClient": false,
+		"isEnterpriseClient": false,
+		"canChangeTerms": true,
+		"canViewTerms": true,
+		"canWithdraw": true
+	},
+	"application": {
+		"name": "TVJApplication",
+		"applicationRid": null,
+		"relatedJob": null,
+		"originalJob": null,
+		"messageFromBuyer": null,
+		"isInterview": null,
+		"complianceData": null,
+		"isLeadProposal": false,
+		"applicationUID": "1774515483916087297",
+		"vendorUID": "1352684380223754240",
+		"vendorOrgUID": "1352684380232142849",
+		"openingUID": "1774473138991607808",
+		"terms": {
+			"chargeRate": {
+				"amount": "1500",
+				"currency": "USD"
+			},
+			"duration": 4,
+			"upfrontPaymentPercent": 0,
+			"connectsBid": 0,
+			"sri": null
+		},
+		"coverLetter": "Great opportunity ",
+		"questionsAnswers": [{
+			"question": "How do you stay updated with the latest DLT technologies and frameworks?",
+			"answer": "Experienced "
+		}, {
+			"question": "What attracts you about working at a start up?",
+			"answer": "Brand new vibe"
+		}],
+		"attachment": null,
+		"applyingAs": 0,
+		"status": 2,
+		"withdrawReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"auditDetails": {
+			"createdByUserUID": "1352684380223754240",
+			"modifiedByUserUID": "1352684380223754240",
+			"createdTs": "2024-03-31T19:13:54.925Z",
+			"modifiedTs": "2024-03-31T19:13:54.925Z"
+		},
+		"hidden": false,
+		"dashroomUID": null,
+		"attachments": [],
+		"replaceDetails": {
+			"previousUID": null,
+			"newUID": null
+		},
+		"inviteToInterviewUID": null,
+		"readyToStartDate": null,
+		"vendorSubOrgUID": "1352684380232142849",
+		"onHold": false,
+		"milestones": null,
+		"archiveReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"declineReadon": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"openingCiphertext": null,
+		"invalidateReason": {
+			"rid": null,
+			"otherReason": null,
+			"message": null,
+			"reasonRef": null,
+			"reason": null
+		},
+		"occupationUID": null,
+		"occupationTitle": null,
+		"portfolios": [],
+		"statusReason": null,
+		"otherAnnotations": null,
+		"jointProposalUID": null,
+		"memberProposals": null,
+		"viewedByClientDate": null,
+		"gitHubRepoLink": null
+	},
+	"applicant": {
+		"profileRate": null,
+		"ciphertext": "~0110c34ec99534df3a",
+		"title": "Backend Server Developer | Cloud Integration Expert",
+		"uid": "1352684380232142850",
+		"person": {
+			"uid": "1352684380223754240",
+			"legacyId": "497f29bd",
+			"rid": "37789089",
+			"personName": {
+				"lastName": "Osseo-Asare",
+				"firstName": "David"
+			},
+			"photoUrl": "https:\/\/www.upwork.com\/profile-portraits\/c1MXpHy76x5tT-XkUikmChbl8X_H9ImH_LSyJZMq4p0XCqCCJcm9D6Qt6IBOrpJOry",
+			"creationDate": "2021-01-22T18:27:42.487Z",
+			"isProvider": null,
+			"updatedOn": "2024-03-29T23:59:08.527Z",
+			"active": true,
+			"dateOfBirth": null
+		},
+		"organization": {
+			"name": "David Osseo-Asare",
+			"uid": "1352684380232142849",
+			"parentUid": null,
+			"legacyId": null,
+			"rid": null,
+			"legacyParentRid": null,
+			"legacyType": 2,
+			"photoUrl": null,
+			"type": 2,
+			"contactRid": null,
+			"active": true,
+			"hidden": false,
+			"description": null,
+			"topLevelOrgUid": "1352684380232142849",
+			"timezoneName": null
+		},
+		"activationStatus": 1,
+		"owner": true,
+		"invitationRid": null,
+		"contractRid": null,
+		"personUid": "1352684380223754240",
+		"orgUid": "1352684380232142849",
+		"eac": null,
+		"affiliateContractor": null,
+		"staffType": 3,
+		"colleague": true,
+		"isDefault": false
+	},
+	"jobDetails": {
+		"opening": {
+			"job": {
+				"info": {
+					"type": 1,
+					"title": "DLT developer - SALARY position",
+					"ciphertext": "~0182ad09be0309d4f0",
+					"access": 1,
+					"recno": 1012363076,
+					"createdOn": "2024-03-31T16:25:39.363Z",
+					"isPtcPrivate": false,
+					"uid": "1774473138991607808",
+					"premium": false,
+					"hideBudget": false,
+					"notSureFreelancersToHire": false,
+					"notSureProjectDuration": false,
+					"notSureExperienceLevel": false,
+					"notSureLocationPreference": false,
+					"weeklyRetainerBudget": null
+				},
+				"description": "We\u0027re on the lookout for a DLT Specialist to join our deep tech startup. The ideal candidate should have a solid foundation in DLT with a keen interest in emerging technologies, particularly in areas like consensus mechanisms and smart contract optimization, and be engaged with the open-source community. This is a young start up with a bright future, that is currently being bootstrapped.\n\nKey responsibilities:\n- Design and implement scalable and secure DLT systems.\n- Optimize and innovate with smart contract protocols.\n- Collaborate with teams to integrate DLT solutions seamlessly.\n- Lead open-source projects, contributing to and leveraging the community.\n- Stay updated with advancements in DLT frameworks and technologies.\n\nQualifications:\n- Strong background in DLT\/blockchain technology.\n- Proficient in smart contract development and consensus algorithms.\n- Active participation in open-source projects.\n- Advanced degree in a related field is preferred.\n\nPreference will be given to candidates from specified countries. This is a salary position, will renegotiation of the salary of 6 months of successful work and equity options after 18 months.",
+				"status": 1,
+				"postedOn": "2024-03-31T16:25:39.363Z",
+				"startDate": null,
+				"deliveryDate": null,
+				"workload": null,
+				"companyRecno": 6714134,
+				"duration": "1 to 3 months",
+				"budget": {
+					"currencyCode": "USD",
+					"amount": 1500
+				},
+				"visibility": 1,
+				"clientActivity": {
+					"lastBuyerActivity": "2024-03-31T17:06:36.684Z",
+					"numberOfPositionsToHire": 1,
+					"totalApplicants": 2,
+					"totalInvitedToInterview": 0,
+					"totalHired": 0,
+					"unansweredInvites": 0,
+					"invitationsSent": 0
+				},
+				"contractorTier": 2,
+				"segmentationData": [{
+					"name": "Employment",
+					"value": "EMPLOYMENT_POSITION",
+					"label": "Ongoing project",
+					"type": "EMPLOYMENT",
+					"sortOrder": 1,
+					"typeUid": "535792587707281410",
+					"customValue": null,
+					"skill": null
+				}],
+				"categoryGroup": {
+					"name": "Web, Mobile \u0026 Software Dev",
+					"urlSlug": "web-mobile-software-dev"
+				},
+				"category": {
+					"name": "Web Development",
+					"urlSlug": "web-development"
+				},
+				"maxBudget": null,
+				"attachments": null,
+				"openingUid": "1774473138991607808",
+				"sourcingTime": null,
+				"publishTime": "2024-03-31T16:25:39.684Z",
+				"durationIdV2": 2,
+				"durationLabel": "1 to 3 months",
+				"durationIdV3": 2,
+				"extendedBudgetInfo": {
+					"hourlyBudgetType": null,
+					"hourlyBudgetMin": null,
+					"hourlyBudgetMax": null
+				},
+				"weeklyRetainerBudget": null,
+				"engagementDuration": {
+					"uid": "474250516458926082",
+					"rid": 3,
+					"label": "1 to 3 months",
+					"weeks": 9,
+					"ctime": "2014-06-04T17:59:10.123Z",
+					"mtime": "2014-06-04T17:59:10.123Z",
+					"replacedByUid": null
+				},
+				"sandsData": {
+					"occupation": {
+						"uid": "1110580755107926016",
+						"freeText": null,
+						"ontologyId": "upworkOccupation:fullstackdevelopment",
+						"prefLabel": "Full Stack Development"
+					},
+					"ontologySkills": [{
+						"attributeUid": "1484275089215770624",
+						"attributeGroupUid": "1110580578754220032",
+						"freeText": null,
+						"ontologyId": "kg:50-26465",
+						"prefLabel": "Full-Stack Development"
+					}],
+					"additionalSkills": [{
+						"attributeUid": "996364628025274383",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:javascript",
+						"prefLabel": "JavaScript"
+					}, {
+						"attributeUid": "996364628025274382",
+						"attributeGroupUid": null,
+						"freeText": null,
+						"ontologyId": "upwork:java",
+						"prefLabel": "Java"
+					}, {
+						"attributeUid": null,
+						"attributeGroupUid": null,
+						"freeText": "DLT",
+						"ontologyId": null,
+						"prefLabel": null
+					}],
+					"occupations": [{
+						"uid": "1110580755107926016",
+						"freeText": null,
+						"ontologyId": "upworkOccupation:fullstackdevelopment",
+						"prefLabel": "Full Stack Development"
+					}]
+				},
+				"annotations": {
+					"tags": ["jsi_contractToHire", "contractToHireSet", "C2HJobsOptInEducation"],
+					"customFields": {
+						"siteSource": "desktop_rjp",
+						"publishTime": "2024-03-31T16:25:39.684Z",
+						"totalTimeJobPostFlowAIv2": "339",
+						"sourcingUpdateCount": "0",
+						"sourcingUpdateForbidden": "false",
+						"totalTimeSpentOnReviewPageAIv2": "187",
+						"type": "RJP",
+						"browser": "Chrome",
+						"device": "Windows",
+						"startTimeJobPostFlowAIv2": "1711901997389"
+					}
+				}
+			},
+			"qualifications": {
+				"type": 1,
+				"location": null,
+				"minOdeskHours": 0,
+				"groupRecno": null,
+				"shouldHavePortfolio": false,
+				"tests": null,
+				"minHoursWeek": null,
+				"group": null,
+				"prefEnglishSkill": 2,
+				"minJobSuccessScore": 80,
+				"risingTalent": true,
+				"locationCheckRequired": false,
+				"countries": ["Pakistan", "India", "Ukraine", "Vietnam", "Malaysia", "Taiwan", "Philippines"],
+				"regions": null,
+				"states": null,
+				"timezones": null,
+				"localMarket": false,
+				"onSiteType": null,
+				"locations": null,
+				"localDescription": null,
+				"localFlexibilityDescription": null,
+				"earnings": null,
+				"languages": null
+			},
+			"questions": [{
+				"position": 0,
+				"question": "How do you stay updated with the latest DLT technologies and frameworks?"
+			}, {
+				"position": 1,
+				"question": "What attracts you about working at a start up?"
+			}],
+			"isJobClosedByCss": null
+		},
+		"buyer": {
+			"info": {
+				"company": {
+					"name": null,
+					"id": "lgl0qv-hhieabslvypu_yq",
+					"description": null,
+					"summary": null,
+					"url": null,
+					"isCompanyVisibleInProfile": false,
+					"contractDate": "2019-09-17T00:00:00.000Z",
+					"isEDCReplicated": false,
+					"companyRid": null,
+					"companyUid": "1173892691357401088",
+					"profile": {
+						"size": "1",
+						"industry": "Tech \u0026 IT",
+						"visible": true,
+						"l3Occupations": []
+					}
+				},
+				"location": {
+					"country": "France",
+					"city": "Lille",
+					"state": null,
+					"countryTimezone": "France (UTC+01:00)",
+					"worldRegion": null,
+					"offsetFromUtcMillis": 7200000
+				},
+				"jobs": {
+					"postedCount": 51,
+					"filledCount": 12,
+					"openCount": 6,
+					"openJobs": [{
+						"type": 2,
+						"title": "AI automation expert and developer",
+						"ciphertext": "~018205d8adb22c8709",
+						"access": 1,
+						"recno": 1008251939,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1703509611246026752",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}, {
+						"type": 1,
+						"title": "Brand kit designer",
+						"ciphertext": "~01ed601bb64551acc3",
+						"access": 4,
+						"recno": 1008752548,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1711444700918677504",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}, {
+						"type": 1,
+						"title": "Commission based sales and lead generation specialist",
+						"ciphertext": "~01b3d923e99b8f3f7d",
+						"access": 4,
+						"recno": 1008689290,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1710306853203173376",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}, {
+						"type": 1,
+						"title": "Create a company brochure",
+						"ciphertext": "~014ae0b1df9f080c1f",
+						"access": 4,
+						"recno": 1008170251,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1702112431142506496",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}, {
+						"type": 2,
+						"title": "Experienced Developer for Automated Knowledge Chatbot Builder ",
+						"ciphertext": "~013abc46102bccaa61",
+						"access": 4,
+						"recno": 1008326641,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1704495718294142976",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}, {
+						"type": 1,
+						"title": "MVP needed with DLT component for an ecosystem\u0027s marketplace",
+						"ciphertext": "~01c44e2acf851a55dc",
+						"access": 4,
+						"recno": 1007938680,
+						"createdOn": null,
+						"isPtcPrivate": false,
+						"uid": "1698745162913996800",
+						"premium": null,
+						"hideBudget": null,
+						"notSureFreelancersToHire": null,
+						"notSureProjectDuration": null,
+						"notSureExperienceLevel": null,
+						"notSureLocationPreference": null,
+						"weeklyRetainerBudget": {
+							"currencyCode": "USD",
+							"amount": 0
+						}
+					}]
+				},
+				"stats": {
+					"feedbackCount": 8,
+					"hoursCount": 2,
+					"totalCharges": {
+						"currencyCode": "USD",
+						"amount": 829.95
+					},
+					"totalAssignments": 12,
+					"activeAssignmentsCount": 3,
+					"score": 5,
+					"totalJobsWithHires": 12
+				},
+				"logo": null,
+				"avgHourlyJobsRate": {
+					"currencyCode": "USD",
+					"amount": 50
+				}
+			},
+			"workHistory": [{
+				"jobInfo": {
+					"type": 1,
+					"title": "Format affirmation cards ",
+					"ciphertext": "~01b718e19f80371f0a",
+					"access": 4,
+					"recno": 1008716986,
+					"uid": "1710802176991612928"
+				},
+				"startDate": "2023-10-01T00:00:00.000Z",
+				"endDate": null,
+				"status": 1,
+				"contractorInfo": {
+					"contractorName": "Ashley-Marie Walters",
+					"ciphertext": "~010cd776499ec8504c",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": null,
+				"totalCharge": 0,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Design WordPress personal website",
+					"ciphertext": "~014f68b12d6439b95b",
+					"access": 4,
+					"recno": 1005039813,
+					"uid": "1655266655024513024"
+				},
+				"startDate": "2023-05-01T00:00:00.000Z",
+				"endDate": null,
+				"status": 1,
+				"contractorInfo": {
+					"contractorName": "Anas Shahzad",
+					"ciphertext": "~0143cd5d909db0f2c3",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": null,
+				"totalCharge": 100,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Redesign WP personal portfolio website - URGENT",
+					"ciphertext": "~018f032e6e3145bd3b",
+					"access": 4,
+					"recno": 1002526622,
+					"uid": "1612284107345182720"
+				},
+				"startDate": "2023-01-01T00:00:00.000Z",
+				"endDate": "2023-06-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Puja Vashisht",
+					"ciphertext": "~01d8bc753211e4b1a6",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": {
+					"comment": null,
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 60,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Redesign word press site",
+					"ciphertext": "~01ce30fa70962ff35b",
+					"access": 4,
+					"recno": 1002334391,
+					"uid": "1607494491514081280"
+				},
+				"startDate": "2022-12-01T00:00:00.000Z",
+				"endDate": "2023-01-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Tauqeer M.",
+					"ciphertext": "~0163e96168431f0541",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": {
+					"comment": "great work with you",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 70,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "WordPress personal site set up",
+					"ciphertext": "~011baae7eab11ce2f9",
+					"access": 4,
+					"recno": 1002172324,
+					"uid": "1603206952580751360"
+				},
+				"startDate": "2022-12-01T00:00:00.000Z",
+				"endDate": "2022-12-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Bilal Ahmad",
+					"ciphertext": "~01ace4fc6a80e8e74e",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": {
+					"comment": "I closed the contract and paid despite being not satisfied with the result - it is easier for me to have a complete redo vs adjusting the output. My main goal to search for a professional was to save my time but at the end I am spending more time. The 1st design was completely outside of the instructions and it looked really bad, Bilal proposed to redo everything though that I found to be a sign of a professional attitude and potential misunderstanding between us. However, the output on the second run was still not even close to the desired examples I shared nor my previous website feel that I designed myself in 3 hours being a non-professional.",
+					"score": 3.7,
+					"commentAccess": 1,
+					"response_for_client_feedback": "Well, It seems like the client was not happy with the initial work so I did a completely new design but it didn\u0027t go well for the client.\n",
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"feedbackToClient": {
+					"comment": "Well, It seems like the client was not happy with the initial work so I did a completely new design but it didn\u0027t go well for the client.",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 90,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Proofread an essay, help with rewording",
+					"ciphertext": "~0165b5314a7f72cacf",
+					"access": 1,
+					"recno": 225505227,
+					"uid": "1424679603747868672"
+				},
+				"startDate": "2021-08-01T00:00:00.000Z",
+				"endDate": "2021-09-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Oyepeju A.",
+					"ciphertext": "~018a328c5412f4fa0a",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": {
+					"comment": null,
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 60,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "English-French translation of a CV",
+					"ciphertext": null,
+					"access": null,
+					"recno": 220225075,
+					"uid": "1281525362004905984"
+				},
+				"startDate": "2020-07-01T00:00:00.000Z",
+				"endDate": "2020-07-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Adela N.",
+					"ciphertext": "~01e9c05133fde26250",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": {
+					"comment": null,
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 55,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "English-French translation of a short document",
+					"ciphertext": "~019b1e702e9dbac233",
+					"access": 1,
+					"recno": 220130530,
+					"uid": "1278605024309944320"
+				},
+				"startDate": "2020-07-01T00:00:00.000Z",
+				"endDate": "2020-07-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Adela N.",
+					"ciphertext": "~01e9c05133fde26250",
+					"accessType": 4
+				},
+				"totalHours": 0,
+				"feedback": {
+					"comment": "It was a pleasure to work with Adela: very friendly, fast in communication, extremely professional. I needed to ensue some of the details in translations (due to their specifics) and it was done perfectly. Very much recommended and Adela will be on my list for any future translations.",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"feedbackToClient": {
+					"comment": "Thank you for this great opportunity! Looking forward to your next assignment! ADELA",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 40,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Python code",
+					"ciphertext": null,
+					"access": 2,
+					"recno": null,
+					"uid": null
+				},
+				"startDate": "2020-01-01T00:00:00.000Z",
+				"endDate": "2020-01-01T00:00:00.000Z",
+				"status": null,
+				"contractorInfo": {
+					"contractorName": "Thitiya T.",
+					"ciphertext": null,
+					"accessType": 2
+				},
+				"totalHours": 0,
+				"feedback": null,
+				"feedbackToClient": {
+					"comment": "Very urgent work. But she is responsive though out the project and prompt payment.",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 125,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}, {
+				"jobInfo": {
+					"type": 1,
+					"title": "Conceptual framework and literture review",
+					"ciphertext": "~01bd0b1aee1e78a963",
+					"access": 4,
+					"recno": 218246241,
+					"uid": "1209069304648036352"
+				},
+				"startDate": "2019-12-01T00:00:00.000Z",
+				"endDate": "2019-12-01T00:00:00.000Z",
+				"status": 3,
+				"contractorInfo": {
+					"contractorName": "Polya R.",
+					"ciphertext": "~012e98830dbe60f187",
+					"accessType": 2
+				},
+				"totalHours": 0,
+				"feedback": {
+					"comment": "I might need to exhaust my vocabulary of adjectives here: Polya is a very diligent, extremely smart, focused and resourceful individual. I couldn\u0027t have had a better person helping me out and Polya\u0027s experience and education ensured the piece be extremely sophisticated. On a top of all of this Polya is a nice, cheerful individual and communication is very easy.",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"feedbackToClient": {
+					"comment": "I enjoyed working with Anastasiia. She was clear with her requirements and kind with her guidance and feedback.",
+					"score": 5,
+					"commentAccess": 1,
+					"response_for_client_feedback": null,
+					"response_for_freelancer_feedback": null,
+					"feedback_suppressed": 0
+				},
+				"totalCharge": 100,
+				"rate": {
+					"currencyCode": "USD",
+					"amount": 0
+				},
+				"isEDCReplicated": false,
+				"isPtcJob": false,
+				"isPtcPrivate": false,
+				"weeklyRetainerBudget": null
+			}],
+			"cssTier": 0,
+			"isPaymentMethodVerified": true,
+			"isEnterprise": null
+		},
+		"similarJobs": [{
+			"ciphertext": "~01a0e5a41680598bbc",
+			"title": "Java Springboot",
+			"snippet": "I am seeking a highly skilled and experienced Java developer to mentor and assist me on financial company project. The idial candidate should have excellent knowledge of Java programming with experties in developing spring boot applications, AWS exposure and devOps understanding. This projet involves working closesly with me to enhance my application skills, provide guidance on best practices, and assis in the successful as well as timely completion of the story. \nRequirment:\n1. Proven experience as a java developer with experties in Spring boot applications\n2. Strong knowlege of java programming concepts, design patterns, and best practices. \n3. Experience in mentoring or teaching java development skills is highly preferred.\n4. Excellent communication and collaboration skills. \n5. Abitlity to work independently and provide guidance effectively.\n\nIf you are a Java expert with a passion for mentoring and assiting others in their development journey, I would love to hear from you. Please include relevant experience and experties in your proposal. ",
+			"uid": "1767380381848813568"
+		}, {
+			"ciphertext": "~01fa84904fa7e04c6b",
+			"title": " Seeking Experienced Java Developer for File Manager Desktop App Fixes",
+			"snippet": "Hello,\n\n\nI\u0027m currently working on a file manager desktop app and need assistance from an experienced Java developer to resolve some issues. If you have a solid background in Java development and a passion for problem-solving, I\u0027d like to discuss this opportunity with you!\n\nProject Overview:\nThe app is designed to simplify file organization and management tasks for users, but the current issues are hindering its functionality.\n\nRequired Skills:\n\nProficiency in Java programming\nExperience with desktop application development\nStrong problem-solving abilities\n\nWhat I\u0027m Looking For:\nI\u0027m seeking a Java developer who can analyze the codebase, identify the root causes of the bugs, and implement effective solutions to address them. Attention to detail and a proactive approach to troubleshooting are essential for this role.\n\nSample Work:\nIf you\u0027re interested in working on this project, please provide examples of your past Java development work, particularly any projects involving desktop applications. Your previous experience will help me assess your qualifications for this task.\n\n",
+			"uid": "1773027876129951744"
+		}, {
+			"ciphertext": "~0162a950cf8d36ad3d",
+			"title": "Maven build failed due to inter project depedency module for java project",
+			"snippet": "Maven build failed due to inter project dependency module for java project.\nIts a common module which is declared in depedency for master pom in project\n",
+			"uid": "1766741602513002496"
+		}, {
+			"ciphertext": "~01bab04c35551cce3f",
+			"title": "Java developer",
+			"snippet": "Looking for a java developer who is very good in spring framework \nShould be willing to work on a remote machine .\n",
+			"uid": "1762293714547089408"
+		}, {
+			"ciphertext": "~018e1692098fa520d3",
+			"title": "Java Backend Developer | EU based",
+			"snippet": "I need a Java developer based in Europe, India, Pakistan.\nMust fluent in English.\nMust expert at Java Development or Python with Microservice Architecture.",
+			"uid": "1768106198568378368"
+		}],
+		"currentUserInfo": {
+			"owner": false,
+			"freelancerInfo": {
+				"qualificationsMatches": {
+					"totalQualifications": 7,
+					"totalMatches": 6,
+					"matches": [{
+						"qualification": 0,
+						"qualified": true,
+						"clientPreferred": "individuals",
+						"freelancerValue": "IC",
+						"freelancerValueLabel": "Not Specified",
+						"clientPreferredLabel": "Freelancers only"
+					}, {
+						"qualification": 6,
+						"qualified": true,
+						"clientPreferred": "80",
+						"freelancerValue": "100",
+						"freelancerValueLabel": "100%",
+						"clientPreferredLabel": "At least 80%"
+					}, {
+						"qualification": 4,
+						"qualified": true,
+						"clientPreferred": "2",
+						"freelancerValue": "4",
+						"freelancerValueLabel": "Native Or Bilingual",
+						"clientPreferredLabel": "Conversational"
+					}, {
+						"qualification": 7,
+						"qualified": true,
+						"clientPreferred": "true",
+						"freelancerValue": "true",
+						"freelancerValueLabel": "yes",
+						"clientPreferredLabel": "yes"
+					}, {
+						"qualification": 3,
+						"qualified": false,
+						"clientPreferred": "country=(Pakistan,India,Ukraine,Vietnam,Malaysia,Taiwan,Philippines)",
+						"freelancerValue": "United Kingdom",
+						"freelancerValueLabel": "United Kingdom",
+						"clientPreferredLabel": "Pakistan, India, Ukraine, Vietnam, Malaysia, Taiwan, Philippines"
+					}, {
+						"qualification": 8,
+						"qualified": true,
+						"clientPreferred": "ANY",
+						"freelancerValue": "11790.66",
+						"freelancerValueLabel": "11790.66",
+						"clientPreferredLabel": "Any"
+					}, {
+						"qualification": 10,
+						"qualified": true,
+						"clientPreferred": "Any",
+						"freelancerValue": "en",
+						"freelancerValueLabel": "English",
+						"clientPreferredLabel": null
+					}]
+				},
+				"applied": true,
+				"hired": null,
+				"contract": null,
+				"profileState": 10,
+				"hourlyRate": {
+					"currencyCode": "USD",
+					"amount": 60
+				},
+				"devProfileCiphertext": "~0110c34ec99534df3a",
+				"application": {
+					"vjApplicationUid": "1774515483916087297",
+					"vendorOrgUid": "1352684380232142849"
+				},
+				"pendingInvite": null
+			}
+		},
+		"diagnosticInfo": {
+			"failedServiceCalls": null
+		}
+	},
+	"opening": {
+		"occupation": {
+			"uid": "1110580755107926016",
+			"ontologyId": "upworkOccupation:fullstackdevelopment",
+			"type": [1],
+			"prefLabel": "Full Stack Development",
+			"altLabel": null,
+			"narrower": null,
+			"broader": ["upworkOccupation:webdevelopmentsubcategory"],
+			"entityStatus": 3,
+			"narrowerUids": null,
+			"broaderUids": ["531770282584862733"],
+			"replacedBy": null,
+			"replacedByUid": null,
+			"scopeNote": "Full stack development involves both the front and back-end of a website or application.",
+			"splitInto": null,
+			"splitIntoUids": null,
+			"mergedInto": null,
+			"mergedIntoUid": null,
+			"externalLink": ["http:\/\/en.wikipedia.org\/wiki\/Solution_stack"],
+			"exactMatch": null,
+			"exactMatchUids": null,
+			"closeMatch": null,
+			"closeMatchUids": null,
+			"relatedMatch": ["upwork:cryptography", "upwork:joomla", "upwork:csharp", "upwork:java", "upwork:sql", "upwork:wordpressplugin", "upwork:vuejs", "upwork:amazonwebservices", "upwork:agilesoftwaredevelopment", "upwork:cplusplus", "upwork:bootstrap", "upwork:djangoframework", "upwork:softwaredevelopment", "upwork:rest", "upwork:wordpress", "upwork:scala", "upwork:bitcoin", "upwork:cassandra", "upwork:softwaredocumentation", "upwork:javascript", "upwork:ethereum", "upwork:angularjs", "upwork:firmware", "upwork:crm", "upwork:databasedesign", "upwork:html", "upwork:softwarequalitymanagement", "upwork:postgresql", "upwork:couchdb", "upwork:aspnetmvc", "upwork:php", "upwork:reactjs", "upwork:groovy", "upwork:meteor", "upwork:mysql", "upwork:python", "upwork:mongodb", "upwork:apachespark", "upwork:dotnetframework", "upwork:rubyonrails", "upwork:jquery", "upwork:nodejs", "upwork:sqlite", "upwork:css", "upwork:softwarearchitecture", "upwork:ruby", "upwork:ajax", "upwork:corda", "upwork:ico", "upwork:aspnet", "upwork:softwaredebugging", "upwork:softwaredesign", "upwork:desktopapplications", "upwork:graphql", "upwork:smartcontracts", "upwork:neo4j"],
+			"relatedMatchUids": ["1031626728689614848", "1031626751603097600", "996364628025274380", "996364628025274382", "1031626782364123136", "1031626796452790272", "1031626794477273088", "996364628012691471", "1031626711035789312", "996364628025274381", "1031626720951123968", "1031626732309299200", "1225465958237442048", "1031626774814375936", "1052162208999198724", "996364628025274388", "1031626719797690368", "1031626723065053184", "1031626781453959168", "996364628025274383", "1031626736386162688", "1031626712877088768", "1031626738688835584", "1031626728555397120", "1031626729578807296", "1031626745110315008", "1031626781487513600", "996364628000108546", "1031626728098217984", "1031626716547104768", "996364628025274385", "1031626773660942336", "1031626743130603520", "996364628016885763", "996364627995914247", "996364628025274386", "996364627995914245", "996364628000108548", "1031626732825198592", "1031626775930060800", "1031626751737315328", "1031626762999021568", "996364628000108549", "1031626728794472448", "1031626781382656000", "1031626775913283584", "1031626711270670336", "1031626727351631872", "1031626746754482176", "1031626716513550336", "1031626781403627520", "1110580698442878976", "1031626731394940928", "1031626743004774400", "1031626780715761664", "996364627995914248"],
+			"hasDeliverable": null,
+			"p1keyword": null,
+			"p2keyword": null,
+			"p3keyword": null,
+			"p4keyword": null,
+			"p5keyword": null,
+			"relatedSkill": null,
+			"requires": ["upwork:fullstackdevelopmentlanguages", "upwork:fullstackdevelopmentdeliverablegroup", "upwork:webserversattributegroup", "upwork:Database", "upwork:fullstackdevelopmentattributegroup"],
+			"taxonomyLevel": [3],
+			"seeAlso": null,
+			"hasDeliverableUids": null,
+			"requiresUids": ["1204836457510977536", "1110580578754220032", "1204836482861350912", "996364627970748416", "1110580578586447872"],
+			"published": true,
+			"primaryBroader": "upworkOccupation:webdevelopmentsubcategory",
+			"primaryBroaderUid": "531770282584862733",
+			"supply": 0,
+			"demand": 0,
+			"createdTs": "2019-03-26T16:34:20.267Z",
+			"modifiedTs": "2023-11-17T12:36:22.327Z"
+		},
+		"currentUserInfo": null,
+		"qtAllocations": null,
+		"sponsored": null,
+		"clientSuspended": null,
+		"flSuspended": null,
+		"buyer": {
+			"company": null,
+			"user": null,
+			"rid": "6714134"
+		},
+		"isPremium": false,
+		"isTopRated": false,
+		"isHipo": false,
+		"job": null,
+		"opening": {
+			"uid": "1774473138991607808",
+			"title": "DLT developer - SALARY position",
+			"description": "We\u0027re on the lookout for a DLT Specialist to join our deep tech startup. The ideal candidate should have a solid foundation in DLT with a keen interest in emerging technologies, particularly in areas like consensus mechanisms and smart contract optimization, and be engaged with the open-source community. This is a young start up with a bright future, that is currently being bootstrapped.\n\nKey responsibilities:\n- Design and implement scalable and secure DLT systems.\n- Optimize and innovate with smart contract protocols.\n- Collaborate with teams to integrate DLT solutions seamlessly.\n- Lead open-source projects, contributing to and leveraging the community.\n- Stay updated with advancements in DLT frameworks and technologies.\n\nQualifications:\n- Strong background in DLT\/blockchain technology.\n- Proficient in smart contract development and consensus algorithms.\n- Active participation in open-source projects.\n- Advanced degree in a related field is preferred.\n\nPreference will be given to candidates from specified countries. This is a salary position, will renegotiation of the salary of 6 months of successful work and equity options after 18 months.",
+			"version": 0,
+			"engagementType": 0,
+			"duration": {
+				"uid": "474250516458926082",
+				"rid": 3,
+				"label": "1 to 3 months",
+				"weeks": 9,
+				"ctime": "2014-06-04T17:59:10.123Z",
+				"mtime": "2014-06-04T17:59:10.123Z",
+				"replacedByUid": null
+			},
+			"status": 0,
+			"type": 1,
+			"amount": "1500.00",
+			"coverLetterRequired": false,
+			"organizationUid": "1173892691357401088",
+			"companyUid": "1173892691357401088",
+			"access": 1,
+			"contractorTier": 1,
+			"freelancersToHire": 1,
+			"ctime": "2024-03-31T16:25:39.363Z",
+			"mtime": "2024-03-31T16:25:39.363Z",
+			"hidden": false,
+			"categoryUid": "531770282584862733",
+			"groupUid": "531770282580668418",
+			"createdByUid": "688663239739772928",
+			"ciphertext": "01CuNhfbLDM38EwuYXdZXafg7OwI*HDZvAZPiDdfdcupg=",
+			"endDate": null,
+			"startDate": null,
+			"ghostPost": false,
+			"siteSource": "desktop_rjp",
+			"maxAmount": null,
+			"staffAugJob": false,
+			"staffAugDuplicate": false,
+			"keepOpenOnHire": false,
+			"draftOpeningUid": "1774471693851635712",
+			"freelancerMilestonesAllowed": true,
+			"createdByFirstName": null,
+			"createdByLastName": null,
+			"companyName": null,
+			"publishTime": "2024-03-31T16:25:39.684Z",
+			"sourcingTime": null,
+			"sourcingUpdateForbidden": false,
+			"sourcingUpdateCount": 0,
+			"premium": false,
+			"legacyCiphertext": "~0182ad09be0309d4f0",
+			"hideBudget": false,
+			"notSureFreelancersToHire": false,
+			"notSureProjectDuration": false,
+			"notSureExperienceLevel": false,
+			"notSureLocationPreference": false,
+			"reasonRid": null,
+			"legacyRid": 1012363076,
+			"hourlyBudgetType": 2,
+			"hourlyBudgetMin": null,
+			"hourlyBudgetMax": null,
+			"weeklyRetainerBudget": null,
+			"deletedReason": null,
+			"autoReviewStatus": 0,
+			"autoReviewTs": "2024-03-31T16:25:39.681Z",
+			"filledDate": null,
+			"changedByUid": "688663239739772928",
+			"manualReviewStatus": null,
+			"lastOboAgentUserUID": null,
+			"lastOboAgentActionTs": null,
+			"closeTime": null
+		},
+		"qualifications": {
+			"openingUid": "1774473138991607808",
+			"groupRid": null,
+			"englishSkill": 2,
+			"oDeskHours": null,
+			"testRid": null,
+			"locationRegionRid": null,
+			"freelancerType": 1,
+			"ctime": "2024-03-31T16:25:39.262Z",
+			"mtime": "2024-03-31T16:25:39.262Z",
+			"jobSuccessScore": 80,
+			"englishProficiency": 2,
+			"risingTalent": true,
+			"countries": [{
+				"country": "Pakistan"
+			}, {
+				"country": "India"
+			}, {
+				"country": "Ukraine"
+			}, {
+				"country": "Vietnam"
+			}, {
+				"country": "Malaysia"
+			}, {
+				"country": "Taiwan"
+			}, {
+				"country": "Philippines"
+			}],
+			"locationCheckRequired": null,
+			"regions": null,
+			"states": null,
+			"timezones": null,
+			"earnings": 0,
+			"localMarket": false,
+			"onSiteType": null,
+			"locations": null,
+			"localDescription": null,
+			"localFlexibilityDescription": null,
+			"languages": null
+		},
+		"questions": {
+			"questions": [{
+				"uid": "1774473139638243328",
+				"question": "How do you stay updated with the latest DLT technologies and frameworks?",
+				"personUid": "688663239739772928",
+				"organizationUid": "1173892691357401088",
+				"ctime": "2024-03-31T16:25:39.263Z",
+				"mtime": "2024-03-31T16:25:39.263Z",
+				"type": null
+			}, {
+				"uid": "1774473139642437632",
+				"question": "What attracts you about working at a start up?",
+				"personUid": "688663239739772928",
+				"organizationUid": "1173892691357401088",
+				"ctime": "2024-03-31T16:25:39.263Z",
+				"mtime": "2024-03-31T16:25:39.263Z",
+				"type": null
+			}]
+		},
+		"segmentationData": {
+			"segmentationData": [{
+				"segmentationValueUid": "535795054385852416",
+				"customValue": null,
+				"ctime": "2024-03-31T16:25:39.260Z",
+				"mtime": "2024-03-31T16:25:39.260Z",
+				"segmentationValue": {
+					"uid": "535795054385852416",
+					"rid": 1868,
+					"type": {
+						"name": "Employment",
+						"uid": "535792587707281410",
+						"ctime": "2014-06-04T18:24:59.000Z",
+						"mtime": "2014-06-04T18:24:59.000Z",
+						"rname": "EMPLOYMENT"
+					},
+					"label": "Ongoing project",
+					"rname": "EMPLOYMENT_POSITION",
+					"skillUid": null,
+					"sortOrder": 1,
+					"ctime": "2014-06-04T18:24:59.000Z",
+					"mtime": "2014-06-04T18:24:59.000Z",
+					"skill": null
+				}
+			}]
+		},
+		"qualificationsLoaded": true,
+		"questionsLoaded": true,
+		"segmentationDataLoaded": true,
+		"openingExtra": {
+			"uid": "1774473138991607808",
+			"organizationUid": "1173892691357401088",
+			"companyUid": "1173892691357401088",
+			"directHire": false,
+			"invitePost": false,
+			"clientTlv": null
+		},
+		"openingExtraLoaded": true,
+		"attachments": {
+			"attachments": []
+		},
+		"attachmentsLoaded": true,
+		"createdBy": null,
+		"organization": {
+			"name": null,
+			"uid": "1173892691357401088",
+			"parentUid": null,
+			"legacyId": "lgl0qv-hhieabslvypu_yq",
+			"rid": "6714134",
+			"legacyParentRid": null,
+			"legacyType": 1,
+			"photoUrl": null,
+			"type": 1,
+			"contactRid": null,
+			"active": true,
+			"hidden": false,
+			"description": null,
+			"topLevelOrgUid": "1173892691357401088",
+			"timezoneName": "Europe\/Berlin"
+		},
+		"createdByLoaded": true,
+		"organizationLoaded": true,
+		"ptcInfo": null,
+		"ptcInfoLoaded": true,
+		"category": {
+			"name": "Web Development",
+			"uid": "531770282584862733",
+			"slug": "sc-web-development"
+		},
+		"group": {
+			"name": "Web, Mobile \u0026 Software Dev",
+			"uid": "531770282580668418",
+			"categories": null,
+			"slug": null
+		},
+		"categoryLoaded": true,
+		"groupLoaded": true,
+		"sandsJobPost": {
+			"jobPostUid": "1774473138991607808",
+			"occupationUid": "1110580755107926016",
+			"skills": [{
+				"parentSkillUid": "1110580578754220032",
+				"skillUid": "1484275089215770624",
+				"freetext": null,
+				"boolAnswer": false,
+				"isLegacyConvertedSkill": false
+			}],
+			"status": 2,
+			"freetextOccupation": null,
+			"tags": null,
+			"additionalSkills": [{
+				"skillUid": "996364628025274383",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": "996364628025274382",
+				"freeText": null,
+				"isLegacyConvertedSkill": false
+			}, {
+				"skillUid": null,
+				"freeText": "DLT",
+				"isLegacyConvertedSkill": false
+			}]
+		},
+		"sandsJobPostLoaded": true,
+		"annotations": null,
+		"annotationsLoaded": false
+	},
+	"offer": [],
+	"jobApplicationsCount": {
+		"accepted": {
+			"count": 6
+		},
+		"activated": null,
+		"declined": null,
+		"withdrawn": {
+			"count": 1
+		},
+		"offered": null,
+		"hired": {
+			"count": 5
+		},
+		"archived": {
+			"count": 106
+		},
+		"created": null,
+		"rejected": null,
+		"replaced": null,
+		"pending": null,
+		"invalid": null
+	},
+	"applicantsProfileRate": 60,
+	"applicantsCiphertext": "~0110c34ec99534df3a",
+	"complianceData": null,
+	"messageFromBuyer": null,
+	"agency": null,
+	"legacy": {
+		"isInterview": false,
+		"currentUserRate": 60,
+		"applicationRid": null
+	}
+}
